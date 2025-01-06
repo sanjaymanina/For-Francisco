@@ -1,5 +1,5 @@
 //@version=6
-indicator("Champion Trader Indicator", format=format.volume, precision = 4)
+indicator("Sanjay Maina", format=format.volume, precision = 4)
 
 // Input Colors
 pos_Vol = input(color.rgb(102, 187, 106, 0), title='Color Up', group = 'VOLUMES')
